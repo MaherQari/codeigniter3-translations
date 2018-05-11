@@ -53,4 +53,4 @@ $lang['cal_august']		= 'أغسطس';
 $lang['cal_september']	= 'سبتمبر';
 $lang['cal_october']	= 'أكتوبر';
 $lang['cal_november']	= 'نوفمبر';
-$lang['cal_december']	= 'دجنبر';
+$lang['cal_december']	= 'ديسمبر';
